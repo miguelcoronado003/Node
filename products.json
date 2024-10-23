@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 99.99,
+    "quantity": 50,
+    "description": "Ergonomic wireless mouse with adjustable DPI settings."
+  },
+  {
+    "id": 2,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 45,
+    "quantity": 30,
+    "description": "Portable Bluetooth speaker with deep bass and long battery life."
+  },
+  {
+    "id": 3,
+    "name": "Yoga Mat",
+    "category": "Sports & Outdoors",
+    "price": 19.99,
+    "quantity": 100,
+    "description": "Non-slip yoga mat, 6mm thickness for extra comfort."
+  },
+  {
+    "id": 4,
+    "name": "Stainless Steel Water Bottle",
+    "category": "Kitchen",
+    "price": 15.5,
+    "quantity": 75,
+    "description": "Insulated water bottle that keeps drinks cold for 24 hours."
+  },
+  {
+    "id": 5,
+    "name": "Noise Cancelling Headphones",
+    "category": "Electronics",
+    "price": 120,
+    "quantity": 20,
+    "description": "Over-ear noise cancelling headphones with premium sound quality."
+  },
+  {
+    "id": 6,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 199.99,
+    "quantity": 10,
+    "description": "Smartwatch with heart rate monitor and GPS tracking."
+  },
+  {
+    "id": 7,
+    "name": "LED Desk Lamp",
+    "category": "Home Office",
+    "price": 35.99,
+    "quantity": 40,
+    "description": "Adjustable LED desk lamp with touch control and USB charging port."
+  },
+  {
+    "id": 8,
+    "name": "Cotton T-shirt",
+    "category": "Clothing",
+    "price": 9.99,
+    "quantity": 200,
+    "description": "100% cotton T-shirt available in multiple colors."
+  },
+  {
+    "id": 9,
+    "name": "Electric Kettle",
+    "category": "Kitchen",
+    "price": 25,
+    "quantity": 50,
+    "description": "1.7L electric kettle with auto shut-off and boil-dry protection."
+  },
+  {
+    "id": 10,
+    "name": "Running Shoes",
+    "category": "Sports & Outdoors",
+    "price": 69.99,
+    "quantity": 60,
+    "description": "Lightweight running shoes with breathable mesh upper."
+  },
+  {
+    "id": 11,
+    "name": "Scented Candle",
+    "category": "Home Decor",
+    "price": 12,
+    "quantity": 90,
+    "description": "Soy wax scented candle with lavender fragrance."
+  },
+  {
+    "id": 12,
+    "name": "Wireless Charger",
+    "category": "Electronics",
+    "price": 18.99,
+    "quantity": 55,
+    "description": "Fast wireless charging pad compatible with all Qi-enabled devices."
+  },
+  {
+    "id": 13,
+    "name": "Gaming Chair",
+    "category": "Furniture",
+    "price": 150,
+    "quantity": 15,
+    "description": "Ergonomic gaming chair with adjustable armrests and lumbar support."
+  },
+  {
+    "id": 14,
+    "name": "Backpack",
+    "category": "Accessories",
+    "price": 49.99,
+    "quantity": 70,
+    "description": "Water-resistant backpack with multiple compartments and laptop sleeve."
+  },
+  {
+    "id": 15,
+    "name": "Coffee Maker",
+    "category": "Kitchen",
+    "price": 89.99,
+    "quantity": 35,
+    "description": "12-cup programmable coffee maker with built-in grinder."
+  },
+  {
+    "id": 16,
+    "name": "Portable Power Bank",
+    "category": "Electronics",
+    "price": 29.99,
+    "quantity": 80,
+    "description": "10,000mAh portable power bank with dual USB outputs."
+  },
+  {
+    "id": 17,
+    "name": "Fitness Tracker",
+    "category": "Electronics",
+    "price": 59.99,
+    "quantity": 45,
+    "description": "Fitness tracker with sleep monitor, step counter, and calorie tracker."
+  },
+  {
+    "id": 18,
+    "name": "Waterproof Phone Case",
+    "category": "Accessories",
+    "price": 12.99,
+    "quantity": 100,
+    "description": "Universal waterproof phone case for phones up to 6.5 inches."
+  },
+  {
+    "id": 19,
+    "name": "Leather Wallet",
+    "category": "Accessories",
+    "price": 39.99,
+    "quantity": 60,
+    "description": "Genuine leather wallet with RFID blocking technology."
+  },
+  {
+    "id": 20,
+    "name": "Standing Desk",
+    "category": "Furniture",
+    "price": 300,
+    "quantity": 10,
+    "description": "Height-adjustable standing desk with electric lift system."
+  }
+]
